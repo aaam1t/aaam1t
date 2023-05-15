@@ -2,7 +2,7 @@
 
 My name is Amit, and I'm a Software Engineering student in Sydney. On my profile you'll find some of the projects I've worked/am working on.
 
-Reach me at: amitsharan@outlook.com.au
+Connect with me! [LinkedIn](https://www.linkedin.com/in/amitasharan/)
 
 <!--
 **aaam1t/aaam1t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
