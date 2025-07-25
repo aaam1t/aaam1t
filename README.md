@@ -2,7 +2,7 @@
 
 My name is Amit, and I'm a Software Engineering student in Sydney. On my profile you'll find some of the projects I've worked/am working on.
 
-Most of my more substantial/tangible work is on my company GitHub profile. Let me know if there's something you'd like to see!
+Most of my more substantial/tangible work is on my work GitHub profile. Let me know if there's something you'd like to see!
 
 <!--
 **aaam1t/aaam1t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
